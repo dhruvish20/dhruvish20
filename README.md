@@ -27,12 +27,12 @@ Supports versioning, CLI-based querying, and experiment comparisons — ideal fo
 
 ---
 
-### 📊 FAANG-Track Repository
+### 📊 [FAANG-Track Repository](https://github.com/dhruvish20/FAANG-Track)
 Your all-in-one repository for interview prep:
 - 📁 LeetCode progress (topic-wise tracker)
 - 📓 System design & CS fundamentals notes
 - 📄 Resume snapshots
-- 
+  
 > 💼 Built to organize and showcase serious career preparation
 
 ---
