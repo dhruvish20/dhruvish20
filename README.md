@@ -19,7 +19,7 @@ Features real-time chat, JWT auth, and stress-tested session architecture.
 
 ---
 
-### 🔦 TorchCommit (In Progress)
+### 🔦 [TorchCommit (In Progress)](https://github.com/dhruvish20/torchcommit)
 An experiment tracking framework for PyTorch projects that auto-logs code, metrics, and system stats at every commit.  
 Supports versioning, CLI-based querying, and experiment comparisons — ideal for ML reproducibility.
 
